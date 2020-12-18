@@ -1,4 +1,4 @@
-!include https://apatel-costco.github.io/Mother/C4_Container.puml
+!include https://apatel-costco.github.io/puml/C4_Container.puml
 
 ' Scope: A single container.
 ' Primary elements: Components within the container in scope.

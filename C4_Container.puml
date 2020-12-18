@@ -1,4 +1,4 @@
-!include https://apatel-costco.github.io/Mother/C4_Context.puml
+!include https://apatel-costco.github.io/puml/C4_Context.puml
 
 ' Scope: A single software system.
 ' Primary elements: Containers within the software system in scope.
